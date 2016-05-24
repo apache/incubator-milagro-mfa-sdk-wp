@@ -12,5 +12,5 @@
 1. Navigate to `<mpin-sdk-wp>`
 1. Open `MPinSDK.sln`
 1. Select *Build->Build Solution* from the menu or build MPinSDK project from the Solution Explorer
- 
-For further details, see [M-Pin Mobile SDK for Windows Phone Online Help](http://docs.miracl.com/m-pin-mobile-sdk-for-windows)
+
+For further details, please see the [Milagro Documentation](http://docs.milagro.io)
